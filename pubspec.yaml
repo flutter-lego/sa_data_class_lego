@@ -3,7 +3,7 @@ description: "data class lego in simple architecture"
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/sa_data_class_lego
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
