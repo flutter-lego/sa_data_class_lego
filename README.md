@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/sa_data_class_lego.svg)](https://pub.dartlang.org/packages/sa_data_class_lego)
 
 # sa_data_class_lego
-description here
+this lego is data class template under [simple architecture lego](https://pub.dev/packages/simple_architecture_lego) framework.
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -13,8 +13,6 @@ lego create
 ```
 2. in terminal, enter the following command for add lego to project.
 ```bash
+lego add simple_architecture_lego
 lego add sa_data_class_lego
 ```
-
-## Usage
-Usage here
