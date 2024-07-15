@@ -13,6 +13,5 @@ lego create
 ```
 2. in terminal, enter the following command for add lego to project.
 ```bash
-lego add simple_architecture_lego
 lego add sa_data_class_lego
 ```
